@@ -1,7 +1,7 @@
 ---
 title: My title
----
+--
 
 # this is a test
 
-Markdown here.
+This is a test
