@@ -4,4 +4,4 @@ title: About this project
 ---
 # About
 
-This is the about page. Whassup?
+This is the about page. 
